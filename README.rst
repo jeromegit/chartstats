@@ -16,7 +16,7 @@ chartstats
 
 
 
-CLI utility to easy parse files, compute stats, and chart results
+CLI utility to make it easy to parse files, compute stats, and chart results!
 
 
 * Free software: MIT license
